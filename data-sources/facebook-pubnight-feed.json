@@ -1,0 +1,3387 @@
+{
+  "data": [
+    {
+      "description": "13 of us are attending the Physics Comedy event in the back room from 7:30 till 9pm. Tickets are still available here: http://theportlandarms.co.uk/wp/event/physics-fan-fiction/",
+      "end_time": "2018-03-14T23:30:00+0000",
+      "name": "Pub Night @ The Portland Arms + Physics Comedy",
+      "place": {
+        "name": "The Portland Arms",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2143258,
+          "longitude": 0.1249064,
+          "street": "129 Chesterton Road",
+          "zip": "CB4 3BA"
+        },
+        "id": "103929612989514"
+      },
+      "start_time": "2018-03-14T18:30:00+0000",
+      "id": "225709524643943"
+    },
+    {
+      "description": "A Greene King pub in disguise",
+      "end_time": "2018-03-07T23:30:00+0000",
+      "name": "Pub Night @ The Grain & Hop Store",
+      "place": {
+        "name": "The Grain & Hop Store, Cambridge",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.200634,
+          "longitude": 0.126332,
+          "street": "The Grain & Hop Store, 69-76 Regent Street",
+          "zip": "CB2 1AB"
+        },
+        "id": "615916831851684"
+      },
+      "start_time": "2018-03-07T18:30:00+0000",
+      "id": "2010403692516855"
+    },
+    {
+      "end_time": "2018-02-28T23:00:00+0000",
+      "name": "The Geldart",
+      "place": {
+        "name": "The Geldart",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2036326,
+          "longitude": 0.1421226,
+          "street": "1 Ainsworth Street",
+          "zip": "CB1 2PF"
+        },
+        "id": "404673892944019"
+      },
+      "start_time": "2018-02-28T19:00:00+0000",
+      "id": "192917997968246"
+    },
+    {
+      "name": "The Petersfield",
+      "place": {
+        "name": "The Petersfield",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2013241,
+          "longitude": 0.1407769,
+          "street": "2 Sturton Street",
+          "zip": "CB1 2qa"
+        },
+        "id": "1833511296916761"
+      },
+      "start_time": "2018-02-28T19:00:00+0000",
+      "id": "158262158212287"
+    },
+    {
+      "description": "Thirsty now has more seating, more draught beers and its own food as well as the food van(s).",
+      "end_time": "2018-02-21T23:30:00+0000",
+      "name": "Pub Night @ Thirsty (possibly in the back room)",
+      "place": {
+        "name": "Thirsty Cambridge",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2143822,
+          "longitude": 0.1265449,
+          "street": "46 Chesterton Road",
+          "zip": "CB4 1EN"
+        },
+        "id": "631464710290258"
+      },
+      "start_time": "2018-02-21T18:30:00+0000",
+      "id": "1854928787882336"
+    },
+    {
+      "description": "There is no food at the pub so let's go to Carlos's at 6:30pm. Carlos's is at the junction of Mawson Road and Mill Road.",
+      "end_time": "2018-02-14T23:00:00+0000",
+      "name": "Pub Night @ The Live & Let Live (Carlos's for food @ 18:30)",
+      "place": {
+        "name": "Live & Let Live",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.1994643,
+          "longitude": 0.1351059,
+          "street": "40 Mawson Road",
+          "zip": "CB1 2EA"
+        },
+        "id": "443590848995224"
+      },
+      "start_time": "2018-02-14T19:00:00+0000",
+      "id": "244786349428181"
+    },
+    {
+      "name": "Pub night @ The Carlton Arms",
+      "place": {
+        "name": "The Carlton Arms",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.222115953027,
+          "longitude": 0.11918974967192,
+          "street": "Carlton Way",
+          "zip": "Cb4 2by"
+        },
+        "id": "335546663187157"
+      },
+      "start_time": "2018-02-07T19:00:00+0000",
+      "id": "148046462669837"
+    },
+    {
+      "description": "The Radegund is probably closed",
+      "name": "Pub Night @ The St Radegund - update",
+      "place": {
+        "name": "one place or the other"
+      },
+      "start_time": "2018-01-31T19:30:00+0000",
+      "id": "1879386645685856"
+    },
+    {
+      "description": "Like a US election, low turn out causes unexpected results. Unlike a US election, if we don't like it, we can switch to the Champion",
+      "end_time": "2018-01-31T23:30:00+0000",
+      "name": "St Radegund",
+      "place": {
+        "name": "St. Radegund",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2078171,
+          "longitude": 0.1268544,
+          "street": "129 King Street",
+          "zip": "CB1 1LD"
+        },
+        "id": "158580687506293"
+      },
+      "start_time": "2018-01-31T19:30:00+0000",
+      "id": "377808105980197"
+    },
+    {
+      "name": "Pub Night @ Pickerel",
+      "place": {
+        "name": "Pickerel Inn",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2097823,
+          "longitude": 0.116339,
+          "street": "30 Magdalene St",
+          "zip": "CB3 0AF"
+        },
+        "id": "724241414273720"
+      },
+      "start_time": "2018-01-24T19:00:00+0000",
+      "id": "543579506007197"
+    },
+    {
+      "description": "We are told the pizzas are good.",
+      "end_time": "2018-01-17T23:00:00+0000",
+      "name": "Pub Night @ The Salisbury Arms",
+      "place": {
+        "name": "Salisbury Arms Cambridge",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.1982646,
+          "longitude": 0.1353465,
+          "street": "76 Tenison Road",
+          "zip": "CB1 2DW"
+        },
+        "id": "284727158344127"
+      },
+      "start_time": "2018-01-17T19:00:00+0000",
+      "id": "192085028202165"
+    },
+    {
+      "description": "I hear they do 'beer', I think we should try this so-called 'beer'",
+      "end_time": "2018-01-10T23:00:00+0000",
+      "name": "The Waterman",
+      "place": {
+        "name": "The waterman",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.214279774635,
+          "longitude": 0.12562924642985,
+          "street": "32 Chesterton Road",
+          "zip": "CB43"
+        },
+        "id": "433919809964541"
+      },
+      "start_time": "2018-01-10T19:00:00+0000",
+      "id": "160286741258809"
+    },
+    {
+      "end_time": "2018-01-03T23:00:00+0000",
+      "name": "The Hopbine",
+      "place": {
+        "name": "The Hopbine",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.207327,
+          "longitude": 0.1294657,
+          "street": "11-12 Fair Street",
+          "zip": "CB1 1HA"
+        },
+        "id": "244282268949934"
+      },
+      "start_time": "2018-01-03T19:00:00+0000",
+      "id": "417054895378697"
+    },
+    {
+      "end_time": "2017-12-20T23:00:00+0000",
+      "name": "The Old Spring",
+      "place": {
+        "name": "The Old Spring - Cambridge",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.21434415834,
+          "longitude": 0.12777769670155,
+          "street": "The Old Spring, 1 Ferry Path",
+          "zip": "CB41HB"
+        },
+        "id": "104537516287931"
+      },
+      "start_time": "2017-12-20T19:00:00+0000",
+      "id": "2259944160898950"
+    },
+    {
+      "name": "The Geldart",
+      "place": {
+        "name": "The Geldart",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2036326,
+          "longitude": 0.1421226,
+          "street": "1 Ainsworth Street",
+          "zip": "CB1 2PF"
+        },
+        "id": "404673892944019"
+      },
+      "start_time": "2017-12-13T19:00:00+0000",
+      "id": "730075183845151"
+    },
+    {
+      "name": "Pub night @ Maypole",
+      "place": {
+        "name": "The Maypole",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2095751,
+          "longitude": 0.11914,
+          "street": "20A Portugal Place",
+          "zip": "CB5 8AF"
+        },
+        "id": "631978020177629"
+      },
+      "start_time": "2017-12-06T19:00:00+0000",
+      "id": "782263631982984"
+    },
+    {
+      "name": "The Snug",
+      "place": {
+        "name": "The Snug Lensfield Road",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.1979132,
+          "longitude": 0.1227606,
+          "street": "67 Lensfield Road",
+          "zip": "CB2 1EN"
+        },
+        "id": "303730469672114"
+      },
+      "start_time": "2017-11-29T18:30:00+0000",
+      "id": "959305800884900"
+    },
+    {
+      "name": "Pub night @ The Geldart",
+      "place": {
+        "name": "The Geldart",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2036326,
+          "longitude": 0.1421226,
+          "street": "1 Ainsworth Street",
+          "zip": "CB1 2PF"
+        },
+        "id": "404673892944019"
+      },
+      "start_time": "2017-11-22T19:00:00+0000",
+      "id": "293732971119803"
+    },
+    {
+      "name": "Pub Night @ The Free Press",
+      "place": {
+        "name": "The Free Press",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.204683389682,
+          "longitude": 0.13033376644616,
+          "street": "7 Prospect Row",
+          "zip": "CB1 1DU"
+        },
+        "id": "118534981534150"
+      },
+      "start_time": "2017-11-15T19:00:00+0000",
+      "id": "1226589824152852"
+    },
+    {
+      "name": "The Tram Depot",
+      "place": {
+        "name": "The Tram Depot",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2046013,
+          "longitude": 0.1327959,
+          "street": "5 Dover Street",
+          "zip": "CB1 1DY"
+        },
+        "id": "174529922698850"
+      },
+      "start_time": "2017-11-08T19:30:00+0000",
+      "id": "342475839559205"
+    },
+    {
+      "name": "The Portland Arms",
+      "place": {
+        "name": "The Portland Arms",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2143258,
+          "longitude": 0.1249064,
+          "street": "129 Chesterton Road",
+          "zip": "CB4 3BA"
+        },
+        "id": "103929612989514"
+      },
+      "start_time": "2017-11-01T18:30:00+0000",
+      "id": "1780856875541347"
+    },
+    {
+      "name": "King Street Run",
+      "place": {
+        "name": "King Street Run Cambridge",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2071711,
+          "longitude": 0.1253455,
+          "street": "86 King Street",
+          "zip": "CB1 1LN"
+        },
+        "id": "370200836513214"
+      },
+      "start_time": "2017-10-25T18:30:00+0100",
+      "id": "144589416285811"
+    },
+    {
+      "name": "The Hopbine",
+      "place": {
+        "name": "The Hopbine",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.207327,
+          "longitude": 0.1294657,
+          "street": "11-12 Fair Street",
+          "zip": "CB1 1HA"
+        },
+        "id": "244282268949934"
+      },
+      "start_time": "2017-10-18T18:00:00+0100",
+      "id": "1524105704344821"
+    },
+    {
+      "name": "The Flying Pig",
+      "place": {
+        "name": "The Flying Pig",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.194630943572,
+          "longitude": 0.13193249676856,
+          "street": "106 Hills Road",
+          "zip": "CB2 1LQ"
+        },
+        "id": "188755441162240"
+      },
+      "start_time": "2017-10-11T19:30:00+0100",
+      "id": "178100372747945"
+    },
+    {
+      "name": "Food at The Station Tavern",
+      "place": {
+        "name": "Station Tavern Cambridge",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.194756442969,
+          "longitude": 0.1373683471875,
+          "street": "2, Station Square",
+          "zip": "CB1 2FP"
+        },
+        "id": "351690528519311"
+      },
+      "start_time": "2017-10-11T18:00:00+0100",
+      "id": "119986358673069"
+    },
+    {
+      "name": "Live and let live",
+      "place": {
+        "name": "Live & Let Live",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.1994643,
+          "longitude": 0.1351059,
+          "street": "40 Mawson Road",
+          "zip": "CB1 2EA"
+        },
+        "id": "443590848995224"
+      },
+      "start_time": "2017-10-04T19:30:00+0100",
+      "id": "278828702606139"
+    },
+    {
+      "end_time": "2017-10-04T19:30:00+0100",
+      "name": "Salisbury Arms for Food",
+      "place": {
+        "name": "Salisbury Arms Cambridge",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.1982646,
+          "longitude": 0.1353465,
+          "street": "76 Tenison Road",
+          "zip": "CB1 2DW"
+        },
+        "id": "284727158344127"
+      },
+      "start_time": "2017-10-04T18:30:00+0100",
+      "id": "280765055746773"
+    },
+    {
+      "name": "The Architect",
+      "place": {
+        "name": "The Architect",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2116477,
+          "longitude": 0.1135033,
+          "street": "43 Castle Street",
+          "zip": "CB3 0AH"
+        },
+        "id": "563550603772408"
+      },
+      "start_time": "2017-09-27T18:30:00+0100",
+      "id": "314803615596072"
+    },
+    {
+      "name": "Queen Edith",
+      "place": {
+        "name": "The Queen Edith, Cambridge.",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.180278403468,
+          "longitude": 0.15284477099273,
+          "street": "Wulfstan Way",
+          "zip": "CB1 8QN"
+        },
+        "id": "1379168255737927"
+      },
+      "start_time": "2017-09-20T19:00:00+0100",
+      "id": "894350674062523"
+    },
+    {
+      "description": "I suggest we meet at The LuK Thai (The Cricketers) for food from 6pm onwards then move to The Elm Tree at 7:30'ish.",
+      "name": "Pub Night @ The Elm Tree (Cricketers first for food)",
+      "place": {
+        "name": "The Elm Tree",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2056597,
+          "longitude": 0.1283008,
+          "street": "16A Orchard Street",
+          "zip": "CB1 1JT"
+        },
+        "id": "192872864101650"
+      },
+      "start_time": "2017-09-13T19:00:00+0100",
+      "id": "153368241913663"
+    },
+    {
+      "description": "http://theredlionhiston.co.uk/category/red-lion-histon-pub-events/beer-festival-histon/",
+      "name": "Pub Night @ The Histon Beer Festival",
+      "place": {
+        "name": "The Red Lion Histon",
+        "location": {
+          "city": "Histon",
+          "country": "United Kingdom",
+          "latitude": 52.2526971742,
+          "longitude": 0.104355349042,
+          "street": "27 High Street",
+          "zip": "cb24 9jd"
+        },
+        "id": "191421860984453"
+      },
+      "start_time": "2017-09-06T18:00:00+0100",
+      "id": "112538229441921"
+    },
+    {
+      "name": "The Pickerel",
+      "place": {
+        "name": "Pickerel Inn",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2097823,
+          "longitude": 0.116339,
+          "street": "30 Magdalene St",
+          "zip": "CB3 0AF"
+        },
+        "id": "724241414273720"
+      },
+      "start_time": "2017-08-30T19:30:00+0100",
+      "id": "342813739476546"
+    },
+    {
+      "name": "The Waterman",
+      "place": {
+        "name": "The waterman",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.214279774635,
+          "longitude": 0.12562924642985,
+          "street": "32 Chesterton Road",
+          "zip": "CB43"
+        },
+        "id": "433919809964541"
+      },
+      "start_time": "2017-08-23T19:00:00+0100",
+      "id": "368621783568535"
+    },
+    {
+      "description": "At the Museum of Technology. Food provided by Holy Schnitzels + Steak & Honour. https://www.wearethirsty.co.uk/thirsty-riverside/",
+      "name": "Pub Night Extra @ Thirsty Riverside on Friday",
+      "place": {
+        "name": "Thirsty Riverside",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.21194,
+          "longitude": 0.14465
+        },
+        "id": "758232487681108"
+      },
+      "start_time": "2017-08-18T18:00:00+0100",
+      "id": "267497307080792"
+    },
+    {
+      "description": "We will start at The Lamb & Flag where those who want  to eat early can get some food. We will probably move on to The Harp at some point. We will post here if/when we move.",
+      "name": "Pub Night @ Covent Garden, London",
+      "place": {
+        "name": "Lamb and Flag",
+        "location": {
+          "city": "London",
+          "country": "United Kingdom",
+          "latitude": 51.5115763,
+          "longitude": -0.1253987,
+          "street": "33 Rose St, Covent Garden",
+          "zip": "wc2e 9eb"
+        },
+        "id": "180199632093220"
+      },
+      "start_time": "2017-08-16T18:00:00+0100",
+      "id": "109569999735098"
+    },
+    {
+      "name": "The Blue Moon",
+      "place": {
+        "name": "The Blue Moon",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2048207,
+          "longitude": 0.1365014,
+          "street": "2 Norfolk Street",
+          "zip": "CB1 2LF"
+        },
+        "id": "180133602189118"
+      },
+      "start_time": "2017-08-09T19:30:00+0100",
+      "id": "270093336811204"
+    },
+    {
+      "name": "Pub night @ The Castle",
+      "place": {
+        "name": "The Castle Inn Cambridge",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2119217,
+          "longitude": 0.1136796,
+          "street": "38 Castle Street",
+          "zip": "CB3 0AJ"
+        },
+        "id": "204137616271327"
+      },
+      "start_time": "2017-08-02T18:30:00+0100",
+      "id": "273713259777547"
+    },
+    {
+      "name": "Pub Night @ The Boat House",
+      "place": {
+        "name": "The Boathouse",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2136665,
+          "longitude": 0.1234183,
+          "street": "14 Chesterton Road",
+          "zip": "CB4 3AX"
+        },
+        "id": "457877164224499"
+      },
+      "start_time": "2017-07-26T19:00:00+0100",
+      "id": "1872229333095972"
+    },
+    {
+      "name": "Pub night @ The Railway Vue Histon",
+      "place": {
+        "name": "The Railway Vue",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.242648975001,
+          "longitude": 0.11084296833289,
+          "street": "163 Station Road",
+          "zip": "CB24 9NP"
+        },
+        "id": "324119157769602"
+      },
+      "start_time": "2017-07-19T19:00:00+0100",
+      "id": "255944351563633"
+    },
+    {
+      "description": "It's time to do the Summer Pubs, though it may be a bit chilly tomorrow. 18C dropping to 12C through the course of the evening.",
+      "name": "Pub Night @ The Granta",
+      "place": {
+        "name": "The Granta",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.199643058284,
+          "longitude": 0.11395746657693,
+          "street": "14 Newnham Rd",
+          "zip": "CB3 9EX"
+        },
+        "id": "232892476725800"
+      },
+      "start_time": "2017-07-12T18:30:00+0100",
+      "id": "251852495313443"
+    },
+    {
+      "description": "Beer will be consumed, food will be eaten and bollocks will be spoken.",
+      "name": "Pub Night @ The Red Lion, Histon",
+      "place": {
+        "name": "The Red Lion Histon",
+        "location": {
+          "city": "Histon",
+          "country": "United Kingdom",
+          "latitude": 52.2526971742,
+          "longitude": 0.104355349042,
+          "street": "27 High Street",
+          "zip": "cb24 9jd"
+        },
+        "id": "191421860984453"
+      },
+      "start_time": "2017-07-05T19:00:00+0100",
+      "id": "316111022166956"
+    },
+    {
+      "description": "Drink beer, eat chips, talk bollocks",
+      "name": "Pub Night @ The Architect",
+      "place": {
+        "name": "The Architect",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2116477,
+          "longitude": 0.1135033,
+          "street": "43 Castle Street",
+          "zip": "CB3 0AH"
+        },
+        "id": "563550603772408"
+      },
+      "start_time": "2017-06-28T19:00:00+0100",
+      "id": "1845407229044266"
+    },
+    {
+      "description": "Barbeque and drinks. Bring food. I will supply real ale but bring your own drink if you don't like the stuff. I'll fire up the bbq from 7pm and food will be cooking on it from 8pm.",
+      "name": "Midsummer bbq / pub night",
+      "place": {
+        "name": "234 Histon Road, Cambridge, CB4 3HJ, United Kingdom"
+      },
+      "start_time": "2017-06-21T19:00:00+0100",
+      "id": "1847794742152775"
+    },
+    {
+      "name": "The Flying Pig",
+      "place": {
+        "name": "The Flying Pig",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.194630943572,
+          "longitude": 0.13193249676856,
+          "street": "106 Hills Road",
+          "zip": "CB2 1LQ"
+        },
+        "id": "188755441162240"
+      },
+      "start_time": "2017-06-14T19:30:00+0100",
+      "id": "119941878596260"
+    },
+    {
+      "description": "7pm at Calverley's Brewery which is at the end of Hooper Street. Moving to The Geldart later.",
+      "name": "Pub Night Extra @ Calverley's and The Geldart Tonight",
+      "place": {
+        "name": "Calverley's Brewery",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.20129,
+          "longitude": 0.142261,
+          "street": "23A Hooper Street",
+          "zip": "CB1 2NZ"
+        },
+        "id": "628979780460372"
+      },
+      "start_time": "2017-06-09T19:00:00+0100",
+      "id": "104331850175025"
+    },
+    {
+      "name": "The Anchor, Cambridge",
+      "place": {
+        "name": "The Anchor, Cambridge",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.20114,
+          "longitude": 0.11427,
+          "street": "Silver Street",
+          "zip": "CB3 9EL"
+        },
+        "id": "145834322248906"
+      },
+      "start_time": "2017-06-07T19:00:00+0100",
+      "id": "1663900073917496"
+    },
+    {
+      "name": "Pub Night @ The Anchor",
+      "place": {
+        "name": "The Anchor, Cambridge",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.20114,
+          "longitude": 0.11427,
+          "street": "Silver Street",
+          "zip": "CB3 9EL"
+        },
+        "id": "145834322248906"
+      },
+      "start_time": "2017-06-07T19:00:00+0100",
+      "id": "1383533381743757"
+    },
+    {
+      "name": "The Devonshire Arms",
+      "place": {
+        "name": "Devonshire Arms",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.1990862,
+          "longitude": 0.1390942,
+          "street": "1 Devonshire Road",
+          "zip": "CB1 2BH"
+        },
+        "id": "126296030755761"
+      },
+      "start_time": "2017-05-31T19:30:00+0100",
+      "id": "220029545178079"
+    },
+    {
+      "name": "The Haymakers",
+      "place": {
+        "name": "The Haymakers",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2174683,
+          "longitude": 0.139648,
+          "street": "54 High Street",
+          "zip": "CB41NG"
+        },
+        "id": "536082466435621"
+      },
+      "start_time": "2017-05-17T19:30:00+0100",
+      "id": "530642843991983"
+    },
+    {
+      "name": "Cambridge Blue",
+      "place": {
+        "name": "The Cambridge Blue",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.202394459399,
+          "longitude": 0.13912136604001,
+          "street": "85 - 87 Gwydir Street",
+          "zip": "CB1 2LG"
+        },
+        "id": "181200928596478"
+      },
+      "start_time": "2017-05-10T19:30:00+0100",
+      "id": "139535419922375"
+    },
+    {
+      "name": "Pub Night @ The Blue Moon",
+      "place": {
+        "name": "The Blue Moon",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2048207,
+          "longitude": 0.1365014,
+          "street": "2 Norfolk Street",
+          "zip": "CB1 2LF"
+        },
+        "id": "180133602189118"
+      },
+      "start_time": "2017-05-03T19:00:00+0100",
+      "id": "1775302416117360"
+    },
+    {
+      "description": "The pub does not do food but Carlos's BBQ is just down the road at the junction of Mawson Road and Mill Road.",
+      "name": "Pub Night @ The Live & Let Live",
+      "place": {
+        "name": "Live & Let Live",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.1994643,
+          "longitude": 0.1351059,
+          "street": "40 Mawson Road",
+          "zip": "CB1 2EA"
+        },
+        "id": "443590848995224"
+      },
+      "start_time": "2017-04-26T19:30:00+0100",
+      "id": "213604759129313"
+    },
+    {
+      "description": "Offers a wide variety of fast food to eat in. No booking necessary.",
+      "name": "Pub Night Food @ Carlos BBQ",
+      "place": {
+        "name": "Carlos BBQ"
+      },
+      "start_time": "2017-04-26T19:00:00+0100",
+      "id": "654616234722149"
+    },
+    {
+      "name": "Carpenters Arms",
+      "place": {
+        "name": "The Carpenters Arms",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2158046,
+          "longitude": 0.1142752,
+          "street": "182-186 Victoria Road",
+          "zip": "CB4 3DZ"
+        },
+        "id": "533721400004289"
+      },
+      "start_time": "2017-04-19T19:30:00+0100",
+      "id": "1244477479004654"
+    },
+    {
+      "description": "Food At Efes at 7, another event to follow",
+      "name": "St Radegund",
+      "place": {
+        "name": "St. Radegund",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2078171,
+          "longitude": 0.1268544,
+          "street": "129 King Street",
+          "zip": "CB1 1LD"
+        },
+        "id": "158580687506293"
+      },
+      "start_time": "2017-04-12T19:30:00+0100",
+      "id": "1740846432873563"
+    },
+    {
+      "description": "Can you please confim if you are coming so I can book a table?",
+      "name": "Efe For Food",
+      "place": {
+        "name": "Efes Restaurant",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.207167,
+          "longitude": 0.1252365,
+          "street": "78-80 King St",
+          "zip": "CB11"
+        },
+        "id": "101696066559147"
+      },
+      "start_time": "2017-04-12T19:00:00+0100",
+      "id": "1826728237649281"
+    },
+    {
+      "name": "Pub Night @ The Royal Standard",
+      "place": {
+        "name": "The Royal Standard",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.1969953,
+          "longitude": 0.149979,
+          "street": "292 Mill Rd",
+          "zip": "CB1 3NL"
+        },
+        "id": "1569200866729863"
+      },
+      "start_time": "2017-04-05T19:00:00+0100",
+      "id": "144704092726150"
+    },
+    {
+      "name": "The Alex",
+      "place": {
+        "name": "The Alex",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.203920796749,
+          "longitude": 0.13934564411497,
+          "street": "Gwydir Street",
+          "zip": "CB1 2LL"
+        },
+        "id": "1447349928840135"
+      },
+      "start_time": "2017-03-29T19:30:00+0100",
+      "id": "1878243002451240"
+    },
+    {
+      "description": "Pub. Beer. Food. Conversation. But mainly Beer.",
+      "name": "Pub Night @ The Architect",
+      "place": {
+        "name": "The Architect",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2116477,
+          "longitude": 0.1135033,
+          "street": "43 Castle Street",
+          "zip": "CB3 0AH"
+        },
+        "id": "563550603772408"
+      },
+      "start_time": "2017-03-22T19:00:00+0000",
+      "id": "113907622479257"
+    },
+    {
+      "name": "The Geldart",
+      "place": {
+        "name": "The Geldart",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2036326,
+          "longitude": 0.1421226,
+          "street": "1 Ainsworth Street",
+          "zip": "CB1 2PF"
+        },
+        "id": "404673892944019"
+      },
+      "start_time": "2017-03-15T19:30:00+0000",
+      "id": "527989597325068"
+    },
+    {
+      "name": "The Petersfield",
+      "place": {
+        "name": "The Petersfield",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2013241,
+          "longitude": 0.1407769,
+          "street": "2 Sturton Street",
+          "zip": "CB1 2qa"
+        },
+        "id": "1833511296916761"
+      },
+      "start_time": "2017-03-01T19:30:00+0000",
+      "id": "759222390911544"
+    },
+    {
+      "description": "https://www.facebook.com/events/1210113815732434/",
+      "name": "Pub Night @ The Maypole Beer Festival",
+      "place": {
+        "name": "It's at the Maypole innit!"
+      },
+      "start_time": "2017-02-22T19:00:00+0000",
+      "id": "1913931172187526"
+    },
+    {
+      "description": "It's a pub and I'm told it does good food.",
+      "name": "Pub Night @ The Corner House",
+      "place": {
+        "name": "The Corner House",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.20946142823,
+          "longitude": 0.14337561816886,
+          "street": "231 Newmarket Road",
+          "zip": "CB5 8JE"
+        },
+        "id": "149113841795107"
+      },
+      "start_time": "2017-02-15T19:00:00+0000",
+      "id": "1845651849037007"
+    },
+    {
+      "name": "The Mill",
+      "place": {
+        "name": "The Mill Pub Cambridge",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.201375227482,
+          "longitude": 0.11616006223917,
+          "street": "14 Mill Lane",
+          "zip": "CB2 1RX"
+        },
+        "id": "602080493164025"
+      },
+      "start_time": "2017-02-08T19:30:00+0000",
+      "id": "169463106879321"
+    },
+    {
+      "description": "They sell pints. And food.",
+      "name": "Pub Night @ The Pint Shop",
+      "place": {
+        "name": "Pint Shop",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.204452,
+          "longitude": 0.1191195,
+          "street": "10 Peas Hill",
+          "zip": "CB2 3"
+        },
+        "id": "401807443242547"
+      },
+      "start_time": "2017-02-01T19:30:00+0000",
+      "id": "1198845026897979"
+    },
+    {
+      "name": "The Pickerel",
+      "place": {
+        "name": "Pickerel Inn",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2097823,
+          "longitude": 0.116339,
+          "street": "30 Magdalene St",
+          "zip": "CB3 0AF"
+        },
+        "id": "724241414273720"
+      },
+      "start_time": "2017-01-25T19:30:00+0000",
+      "id": "1663371260629840"
+    },
+    {
+      "name": "Cambridge Blue",
+      "place": {
+        "name": "The Cambridge Blue",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.202394459399,
+          "longitude": 0.13912136604001,
+          "street": "85 - 87 Gwydir Street",
+          "zip": "CB1 2LG"
+        },
+        "id": "181200928596478"
+      },
+      "start_time": "2017-01-11T19:30:00+0000",
+      "id": "624742784384199"
+    },
+    {
+      "name": "The Geldart",
+      "place": {
+        "name": "The Geldart",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2036326,
+          "longitude": 0.1421226,
+          "street": "1 Ainsworth Street",
+          "zip": "CB1 2PF"
+        },
+        "id": "404673892944019"
+      },
+      "start_time": "2017-01-04T19:30:00+0000",
+      "id": "239301636509603"
+    },
+    {
+      "description": "This week it's the Free Press.
+
+Contacts:
+Gaute 07726 757 832
+Or this FB event.",
+      "name": "The Free Press",
+      "place": {
+        "name": "The Free Press",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.204683389682,
+          "longitude": 0.13033376644616,
+          "street": "7 Prospect Row",
+          "zip": "CB1 1DU"
+        },
+        "id": "118534981534150"
+      },
+      "start_time": "2016-12-21T19:30:00+0000",
+      "id": "235768206851597"
+    },
+    {
+      "name": "Tram Depot",
+      "place": {
+        "name": "The Tram Depot",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2046013,
+          "longitude": 0.1327959,
+          "street": "5 Dover Street",
+          "zip": "CB1 1DY"
+        },
+        "id": "174529922698850"
+      },
+      "start_time": "2016-12-14T19:30:00+0000",
+      "id": "1848564135363032"
+    },
+    {
+      "name": "Golden Hind",
+      "place": {
+        "name": "Golden Hind Pub",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.227767251048,
+          "longitude": 0.14566861422319,
+          "zip": "CB4 1"
+        },
+        "id": "382076225183117"
+      },
+      "start_time": "2016-12-07T19:30:00+0000",
+      "id": "1190084447751984"
+    },
+    {
+      "name": "The Maypole",
+      "place": {
+        "name": "The Maypole",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2095751,
+          "longitude": 0.11914,
+          "street": "20A Portugal Place",
+          "zip": "CB5 8AF"
+        },
+        "id": "631978020177629"
+      },
+      "start_time": "2016-11-30T19:30:00+0000",
+      "id": "565422260329311"
+    },
+    {
+      "description": "Food event to come later",
+      "name": "Live and Let Live",
+      "place": {
+        "name": "Live & Let Live",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.1994643,
+          "longitude": 0.1351059,
+          "street": "40 Mawson Road",
+          "zip": "CB1 2EA"
+        },
+        "id": "443590848995224"
+      },
+      "start_time": "2016-11-23T19:30:00+0000",
+      "id": "317409665324345"
+    },
+    {
+      "name": "Carlos' for Food",
+      "place": {
+        "name": "Carlos Kebab",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2003291,
+          "longitude": 0.1361241,
+          "street": "70 Mill Rd",
+          "zip": "CB1 2AS"
+        },
+        "id": "191777387565412"
+      },
+      "start_time": "2016-11-23T19:00:00+0000",
+      "id": "326864214365795"
+    },
+    {
+      "name": "The Haymakers",
+      "place": {
+        "name": "The Haymakers",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2174683,
+          "longitude": 0.139648,
+          "street": "54 High Street",
+          "zip": "CB41NG"
+        },
+        "id": "536082466435621"
+      },
+      "start_time": "2016-11-16T19:30:00+0000",
+      "id": "943850272426589"
+    },
+    {
+      "name": "Pub Night @ The Waterman",
+      "place": {
+        "name": "The waterman",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.214279774635,
+          "longitude": 0.12562924642985,
+          "street": "32 Chesterton Road",
+          "zip": "CB43"
+        },
+        "id": "433919809964541"
+      },
+      "start_time": "2016-11-09T19:30:00+0000",
+      "id": "1219018814835159"
+    },
+    {
+      "name": "The Clarendon Arms",
+      "place": {
+        "name": "Clarendon Arms",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2049195,
+          "longitude": 0.1277414,
+          "street": "35-37 Clarendon St",
+          "zip": "CB1 1jx"
+        },
+        "id": "161199673893390"
+      },
+      "start_time": "2016-11-02T19:30:00+0000",
+      "id": "207716739665895"
+    },
+    {
+      "name": "The Devonshire Arms",
+      "place": {
+        "name": "Devonshire Arms",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.1990862,
+          "longitude": 0.1390942,
+          "street": "1 Devonshire Road",
+          "zip": "CB1 2BH"
+        },
+        "id": "126296030755761"
+      },
+      "start_time": "2016-10-26T19:30:00+0100",
+      "id": "340687402960624"
+    },
+    {
+      "name": "The Mitre",
+      "place": {
+        "name": "Mitre Cambridge",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.208834395075,
+          "longitude": 0.1181389611924,
+          "street": "17 Bridge Street",
+          "zip": "CB2 1UF"
+        },
+        "id": "1527722837439319"
+      },
+      "start_time": "2016-10-19T19:30:00+0100",
+      "id": "325051604529722"
+    },
+    {
+      "name": "The Old Spring",
+      "place": {
+        "name": "The Old Spring - Cambridge",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.21434415834,
+          "longitude": 0.12777769670155,
+          "street": "The Old Spring, 1 Ferry Path",
+          "zip": "CB41HB"
+        },
+        "id": "104537516287931"
+      },
+      "start_time": "2016-10-12T19:30:00+0100",
+      "id": "1956429777917387"
+    },
+    {
+      "name": "Queen Edith",
+      "place": {
+        "name": "The Queen Edith, Cambridge.",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.180278403468,
+          "longitude": 0.15284477099273,
+          "street": "Wulfstan Way",
+          "zip": "CB1 8QN"
+        },
+        "id": "1379168255737927"
+      },
+      "start_time": "2016-10-05T19:30:00+0100",
+      "id": "325889884469729"
+    },
+    {
+      "name": "Pub Night",
+      "place": {
+        "name": "The Snug (near the Grafton Centre)"
+      },
+      "start_time": "2016-09-28T19:30:00+0100",
+      "id": "327194677634887"
+    },
+    {
+      "description": "Indicate here if you plan to eat at the pub at 7:30. If there is enough interest I will book a table.",
+      "name": "Pub Night",
+      "place": {
+        "name": "The Geldart",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2036326,
+          "longitude": 0.1421226,
+          "street": "1 Ainsworth Street",
+          "zip": "CB1 2PF"
+        },
+        "id": "404673892944019"
+      },
+      "start_time": "2016-09-21T19:30:00+0100",
+      "id": "529355607269850"
+    },
+    {
+      "description": "It's a pub. With a garden. They also do food. The picture doesn't do it justice.",
+      "name": "Pub Night @ The Alex",
+      "place": {
+        "name": "The Alex",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.203920796749,
+          "longitude": 0.13934564411497,
+          "street": "Gwydir Street",
+          "zip": "CB1 2LL"
+        },
+        "id": "1447349928840135"
+      },
+      "start_time": "2016-09-14T19:30:00+0100",
+      "id": "1167511623331983"
+    },
+    {
+      "name": "The Histon Beer Festival",
+      "place": {
+        "name": "The Red Lion Histon",
+        "location": {
+          "city": "Histon",
+          "country": "United Kingdom",
+          "latitude": 52.2526971742,
+          "longitude": 0.104355349042,
+          "street": "27 High Street",
+          "zip": "cb24 9jd"
+        },
+        "id": "191421860984453"
+      },
+      "start_time": "2016-09-07T19:00:00+0100",
+      "id": "1687243214929232"
+    },
+    {
+      "description": "https://whatpub.com/pubs/CAM/240/bank-micropub-willingham
+I believe this pub does not serve food - What do people want to do for food?",
+      "name": "The Bank (Willingham)",
+      "place": {
+        "name": "The Bank Micropub",
+        "location": {
+          "city": "Willingham",
+          "country": "United Kingdom",
+          "latitude": 52.312848745856,
+          "longitude": 0.056856062930861,
+          "street": "9 High Street",
+          "zip": "CB24 5ES"
+        },
+        "id": "466034553444082"
+      },
+      "start_time": "2016-08-31T19:30:00+0100",
+      "id": "1074309909321516"
+    },
+    {
+      "description": "Ok its wildcard",
+      "name": "The Railway Vue",
+      "place": {
+        "name": "The Railway Vue",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.242648975001,
+          "longitude": 0.11084296833289,
+          "street": "163 Station Road",
+          "zip": "CB24 9NP"
+        },
+        "id": "324119157769602"
+      },
+      "start_time": "2016-08-24T19:30:00+0100",
+      "id": "298429533848907"
+    },
+    {
+      "description": "It's a pub. They sell beer. And food.",
+      "name": "Pub Night @ The Free Press",
+      "place": {
+        "name": "The Free Press",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.204683389682,
+          "longitude": 0.13033376644616,
+          "street": "7 Prospect Row",
+          "zip": "CB1 1DU"
+        },
+        "id": "118534981534150"
+      },
+      "start_time": "2016-08-17T19:30:00+0100",
+      "id": "172254183197220"
+    },
+    {
+      "name": "The Granta",
+      "place": {
+        "name": "The Granta",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.199643058284,
+          "longitude": 0.11395746657693,
+          "street": "14 Newnham Rd",
+          "zip": "CB3 9EX"
+        },
+        "id": "232892476725800"
+      },
+      "start_time": "2016-08-10T19:30:00+0100",
+      "id": "620732041430275"
+    },
+    {
+      "name": "The Black Horse (Rampton)",
+      "place": {
+        "name": "The Black Horse Rampton",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.292065911998,
+          "longitude": 0.089102645969185,
+          "street": "6 High Street",
+          "zip": "CB24 8QE"
+        },
+        "id": "107002129405423"
+      },
+      "start_time": "2016-08-03T19:00:00+0100",
+      "id": "1076119202466829"
+    },
+    {
+      "name": "Red Lion",
+      "place": {
+        "name": "The Red Lion Histon",
+        "location": {
+          "city": "Histon",
+          "country": "United Kingdom",
+          "latitude": 52.2526971742,
+          "longitude": 0.104355349042,
+          "street": "27 High Street",
+          "zip": "cb24 9jd"
+        },
+        "id": "191421860984453"
+      },
+      "start_time": "2016-07-27T19:30:00+0100",
+      "id": "499871846853008"
+    },
+    {
+      "name": "Fort St George",
+      "place": {
+        "name": "Fort St George",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2124596,
+          "longitude": 0.13462,
+          "street": "Midsummer common",
+          "zip": "CB4 1HA"
+        },
+        "id": "1469262436635850"
+      },
+      "start_time": "2016-07-20T19:30:00+0100",
+      "id": "1222606607758250"
+    },
+    {
+      "description": "Table boooked for 6 for food PLEASE let me know if we are expecting you for food at 7:30",
+      "name": "The Brew House",
+      "place": {
+        "name": "The Cambridge Brew House",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2074849,
+          "longitude": 0.12209,
+          "street": "1 King Street",
+          "zip": "CB1 1LH"
+        },
+        "id": "129334400561425"
+      },
+      "start_time": "2016-07-13T19:30:00+0100",
+      "id": "910369429073997"
+    },
+    {
+      "description": "It's their Summer Beer Festival",
+      "name": "Cambridge Blue on Wednesday",
+      "place": {
+        "name": "85 Gwydir Street, Cambridge, CB1 2LL, United Kingdom"
+      },
+      "start_time": "2016-07-06T19:00:00+0100",
+      "id": "119584758473844"
+    },
+    {
+      "description": "Food at Efes at 7pm then beer.
+
+This will cheer people up:
+http://www.huffingtonpost.co.uk/entry/boris-johnson-downfall-hitler-video-meme-eu-referendum-bunker_uk_57737efce4b081f48abaa055?w3ez88yosj71hbbj4i",
+      "name": "St radegund",
+      "place": {
+        "name": "St. Radegund",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2078171,
+          "longitude": 0.1268544,
+          "street": "129 King Street",
+          "zip": "CB1 1LD"
+        },
+        "id": "158580687506293"
+      },
+      "start_time": "2016-06-29T20:00:00+0100",
+      "id": "1550282665278991"
+    },
+    {
+      "name": "The Haymakers",
+      "place": {
+        "name": "The Haymakers",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2174683,
+          "longitude": 0.139648,
+          "street": "54 High Street",
+          "zip": "CB41NG"
+        },
+        "id": "536082466435621"
+      },
+      "start_time": "2016-06-22T19:30:00+0100",
+      "id": "288360604844676"
+    },
+    {
+      "name": "Pub Night - Blue Moon",
+      "place": {
+        "name": "The Blue Moon",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2048207,
+          "longitude": 0.1365014,
+          "street": "2 Norfolk Street",
+          "zip": "CB1 2LF"
+        },
+        "id": "180133602189118"
+      },
+      "start_time": "2016-06-15T19:30:00+0100",
+      "id": "253613855004649"
+    },
+    {
+      "name": "The Alexander Arms",
+      "place": {
+        "name": "Alexander Arms",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2040169,
+          "longitude": 0.1388884,
+          "street": "22 Gwydir Street",
+          "zip": "CB1 2"
+        },
+        "id": "254932047919242"
+      },
+      "start_time": "2016-06-08T19:30:00+0100",
+      "id": "1730634460521578"
+    },
+    {
+      "name": "The Geldart",
+      "place": {
+        "name": "The Geldart",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2036326,
+          "longitude": 0.1421226,
+          "street": "1 Ainsworth Street",
+          "zip": "CB1 2PF"
+        },
+        "id": "404673892944019"
+      },
+      "start_time": "2016-06-01T19:30:00+0100",
+      "id": "1160108770686512"
+    },
+    {
+      "description": "Beer & BBQ in the afternoon at my local",
+      "name": "Rampton Beer Festival",
+      "place": {
+        "name": "The Black Horse Rampton",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.292065911998,
+          "longitude": 0.089102645969185,
+          "street": "6 High Street",
+          "zip": "CB24 8QE"
+        },
+        "id": "107002129405423"
+      },
+      "start_time": "2016-05-29T14:00:00+0100",
+      "id": "1667120676883200"
+    },
+    {
+      "description": "Don't forget your CAMRA card for free entry/queue jump
+
+Call me on 07816 826212 if you can't find us",
+      "name": "Cambridge Beer Festival",
+      "place": {
+        "name": "Jesus Green",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.213241666667,
+          "longitude": 0.12308888888889,
+          "street": "Park Parade",
+          "zip": "CB4 3AX"
+        },
+        "id": "113092602034406"
+      },
+      "start_time": "2016-05-25T18:30:00+0100",
+      "id": "1759355657682089"
+    },
+    {
+      "name": "The Old Bicycle Shop",
+      "place": {
+        "name": "The Old Bicycle Shop",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.1996046,
+          "longitude": 0.1268165,
+          "street": "104 Regent Street",
+          "zip": "CB21DP"
+        },
+        "id": "106474406413387"
+      },
+      "start_time": "2016-05-18T19:30:00+0100",
+      "id": "1560090604285158"
+    },
+    {
+      "description": "We will be eating here - will create a separate event to track that",
+      "name": "Kingston Arms",
+      "place": {
+        "name": "The Kingston Arms",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.200376701997,
+          "longitude": 0.13958652249441,
+          "street": "33 Kingston Street",
+          "zip": "CB1 2NU."
+        },
+        "id": "112826842111226"
+      },
+      "start_time": "2016-05-11T19:30:00+0100",
+      "id": "1769646263267175"
+    },
+    {
+      "description": "In order to secure a table booking i want to make sure we book the right sized table - please accept this/only accept this if you are interested in having food with us or you will be there early enough.",
+      "end_time": "2016-05-11T19:30:00+0100",
+      "name": "Food at the Kingston",
+      "place": {
+        "name": "The Kingston Arms",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.200376701997,
+          "longitude": 0.13958652249441,
+          "street": "33 Kingston Street",
+          "zip": "CB1 2NU."
+        },
+        "id": "112826842111226"
+      },
+      "start_time": "2016-05-11T19:00:00+0100",
+      "id": "594620400704031"
+    },
+    {
+      "name": "The Carpenter's Arms",
+      "place": {
+        "name": "The Carpenters Arms",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2158046,
+          "longitude": 0.1142752,
+          "street": "182-186 Victoria Road",
+          "zip": "CB4 3DZ"
+        },
+        "id": "533721400004289"
+      },
+      "start_time": "2016-05-04T19:30:00+0100",
+      "id": "1783221201908599"
+    },
+    {
+      "name": "Live & let Live",
+      "place": {
+        "name": "Live And Let Live",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.1994643,
+          "longitude": 0.1351059,
+          "street": "40 Mawson Road",
+          "zip": "CB1 2EA"
+        },
+        "id": "151400288223579"
+      },
+      "start_time": "2016-04-27T19:30:00+0100",
+      "id": "205995136453583"
+    },
+    {
+      "name": "Carlos' for Food",
+      "place": {
+        "name": "Carlos Kebab",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2003291,
+          "longitude": 0.1361241,
+          "street": "70 Mill Rd",
+          "zip": "CB1 2AS"
+        },
+        "id": "191777387565412"
+      },
+      "start_time": "2016-04-27T19:00:00+0100",
+      "id": "1673921136201690"
+    },
+    {
+      "name": "Devonshire Arms",
+      "place": {
+        "name": "Devonshire Arms",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.1990862,
+          "longitude": 0.1390942,
+          "street": "1 Devonshire Road",
+          "zip": "CB1 2BH"
+        },
+        "id": "126296030755761"
+      },
+      "start_time": "2016-04-20T19:30:00+0100",
+      "id": "511194372397588"
+    },
+    {
+      "description": "Tuesday This week.
+Please let me know if you plan to come so I can book a table.",
+      "name": "Royal Standard (Tuesday)",
+      "place": {
+        "name": "Royal Standard",
+        "location": {
+          "city": "Cambridge",
+          "latitude": 52.19711,
+          "longitude": 0.14984
+        },
+        "id": "195317417497787"
+      },
+      "start_time": "2016-04-12T19:30:00+0100",
+      "id": "1892360637657419"
+    },
+    {
+      "name": "The Six Bells",
+      "place": {
+        "name": "The Six Bells, Cambridge",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.200406464321,
+          "longitude": 0.13438472218171,
+          "zip": "CB1 2"
+        },
+        "id": "265551250212320"
+      },
+      "start_time": "2016-04-06T19:30:00+0100",
+      "id": "580360335460804"
+    },
+    {
+      "name": "The Snug Bar",
+      "place": {
+        "name": "The Snug",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.1979132,
+          "longitude": 0.1227606,
+          "street": "67 Lensfield Rd",
+          "zip": "CB2 1"
+        },
+        "id": "181600168605719"
+      },
+      "start_time": "2016-03-30T19:30:00+0100",
+      "id": "514475258757452"
+    },
+    {
+      "name": "The Pickerel",
+      "place": {
+        "name": "Pickerel Inn",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2097823,
+          "longitude": 0.116339,
+          "street": "30 Magdalene St",
+          "zip": "CB3 0AF"
+        },
+        "id": "724241414273720"
+      },
+      "start_time": "2016-03-23T19:30:00+0000",
+      "id": "1721308824748045"
+    },
+    {
+      "description": "Note - People are meeting at Luk Thai for food at 630pm.",
+      "name": "The Elm Tree",
+      "place": {
+        "name": "The Elm Tree",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2056597,
+          "longitude": 0.1283008,
+          "street": "16A Orchard Street",
+          "zip": "CB1 1JT"
+        },
+        "id": "192872864101650"
+      },
+      "start_time": "2016-03-16T19:00:00+0000",
+      "id": "1599838580271567"
+    },
+    {
+      "name": "The Eagle",
+      "place": {
+        "name": "The Eagle, Cambridge",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.204,
+          "longitude": 0.1182,
+          "zip": "CB2 3Q"
+        },
+        "id": "133217400049697"
+      },
+      "start_time": "2016-03-09T19:30:00+0000",
+      "id": "1002085103174233"
+    },
+    {
+      "name": "The Carpenters Arms",
+      "place": {
+        "name": "The Carpenters Arms",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2158046,
+          "longitude": 0.1142752,
+          "street": "182-186 Victoria Road",
+          "zip": "CB4 3DZ"
+        },
+        "id": "533721400004289"
+      },
+      "start_time": "2016-03-02T19:30:00+0000",
+      "id": "1687738504836063"
+    },
+    {
+      "description": "Yes, this is a repeat visit to The Maypole for their Beer Festival this week.",
+      "name": "The Maypole Beer Festival",
+      "place": {
+        "name": "The Maypole",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.209610818786,
+          "longitude": 0.11923013226858,
+          "street": "20A Portugal Place",
+          "zip": "CB5 8AS"
+        },
+        "id": "353980164636819"
+      },
+      "start_time": "2016-02-24T19:00:00+0000",
+      "id": "576425635851188"
+    },
+    {
+      "name": "The Maypole",
+      "place": {
+        "name": "The Maypole",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.209610818786,
+          "longitude": 0.11923013226858,
+          "street": "20A Portugal Place",
+          "zip": "CB5 8AS"
+        },
+        "id": "353980164636819"
+      },
+      "start_time": "2016-02-17T19:30:00+0000",
+      "id": "796678183777276"
+    },
+    {
+      "name": "Live and Let Live",
+      "place": {
+        "name": "Live And Let Live",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.1994643,
+          "longitude": 0.1351059,
+          "street": "40 Mawson Road",
+          "zip": "CB1 2EA"
+        },
+        "id": "151400288223579"
+      },
+      "start_time": "2016-02-10T19:30:00+0000",
+      "id": "1581100318777355"
+    },
+    {
+      "name": "The Geldart",
+      "place": {
+        "name": "The Geldart",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2036326,
+          "longitude": 0.1421226,
+          "street": "1 Ainsworth Street",
+          "zip": "CB1 2PF"
+        },
+        "id": "404673892944019"
+      },
+      "start_time": "2016-02-03T19:30:00+0000",
+      "id": "227028727641689"
+    },
+    {
+      "name": "The Old Spring",
+      "place": {
+        "name": "The Old Spring - Cambridge",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.21434415834,
+          "longitude": 0.12777769670155,
+          "street": "The Old Spring, 1 Ferry Path",
+          "zip": "CB41HB"
+        },
+        "id": "104537516287931"
+      },
+      "start_time": "2016-01-27T19:30:00+0000",
+      "id": "1269441096404774"
+    },
+    {
+      "description": "Start off (and maybe continue) in Thirsty",
+      "name": "Thirsty for food",
+      "place": {
+        "name": "Thirsty Cambridge",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2143822,
+          "longitude": 0.1265449,
+          "street": "46 Chesterton Road",
+          "zip": "CB4 1EN"
+        },
+        "id": "631464710290258"
+      },
+      "start_time": "2016-01-27T18:00:00+0000",
+      "id": "1671346913154511"
+    },
+    {
+      "description": "This THURSDAY we will be attending the Cambridge Winter Ale Festival at the University Sports & Social Club in Mill Lane.",
+      "name": "Winter Ale Festival",
+      "place": {
+        "name": "University Sports & Social Club"
+      },
+      "start_time": "2016-01-21T17:00:00+0000",
+      "id": "890123594435302"
+    },
+    {
+      "name": "Champion of the Thames",
+      "place": {
+        "name": "Champion of the Thames",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.207353623488,
+          "longitude": 0.12446782257486,
+          "street": "68 King Street",
+          "zip": "CB1 1LN"
+        },
+        "id": "146820152020776"
+      },
+      "start_time": "2016-01-13T19:30:00+0000",
+      "id": "533915333438505"
+    },
+    {
+      "name": "Kingston Arms",
+      "place": {
+        "name": "The Kingston Arms",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.200376701997,
+          "longitude": 0.13958652249441,
+          "street": "33 Kingston Street",
+          "zip": "CB1 2NU."
+        },
+        "id": "112826842111226"
+      },
+      "start_time": "2016-01-06T19:30:00+0000",
+      "id": "1040636375958030"
+    },
+    {
+      "name": "Cambridge Blue",
+      "place": {
+        "name": "The Cambridge Blue",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.202394459399,
+          "longitude": 0.13912136604001,
+          "street": "85 - 87 Gwydir Street",
+          "zip": "CB1 2LG"
+        },
+        "id": "181200928596478"
+      },
+      "start_time": "2015-12-30T19:30:00+0000",
+      "id": "151808538521483"
+    },
+    {
+      "name": "The Waterman",
+      "place": {
+        "name": "The waterman",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.214279774635,
+          "longitude": 0.12562924642985,
+          "street": "32 Chesterton Road",
+          "zip": "CB43"
+        },
+        "id": "433919809964541"
+      },
+      "start_time": "2015-12-16T19:30:00+0000",
+      "id": "693926390742611"
+    },
+    {
+      "description": "Post xmas dinnner drinks for Raspberry Pi and Broadcom folks too.",
+      "name": "The Grain & Hop Store",
+      "place": {
+        "name": "The Grain & Hop Store, Cambridge",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.200634,
+          "longitude": 0.126332,
+          "street": "The Grain & Hop Store, 69-76 Regent Street",
+          "zip": "CB2 1AB"
+        },
+        "id": "615916831851684"
+      },
+      "start_time": "2015-12-09T19:30:00+0000",
+      "id": "991256897583192"
+    },
+    {
+      "name": "The Clarendon Arms",
+      "place": {
+        "name": "Clarendon Arms",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2049195,
+          "longitude": 0.1277414,
+          "street": "35-37 Clarendon St",
+          "zip": "CB1 1jx"
+        },
+        "id": "161199673893390"
+      },
+      "start_time": "2015-12-02T19:30:00+0000",
+      "id": "866390186810395"
+    },
+    {
+      "name": "Thirsty at 730pm then The Fort St George",
+      "place": {
+        "name": "Thirsty Cambridge",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2143822,
+          "longitude": 0.1265449,
+          "street": "46 Chesterton Road",
+          "zip": "CB4 1EN"
+        },
+        "id": "631464710290258"
+      },
+      "start_time": "2015-11-25T19:30:00+0000",
+      "id": "412419672296817"
+    },
+    {
+      "name": "The Hopbine",
+      "place": {
+        "name": "The Hopbine",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.207327,
+          "longitude": 0.1294657,
+          "street": "11-12 Fair Street",
+          "zip": "CB1 1HA"
+        },
+        "id": "244282268949934"
+      },
+      "start_time": "2015-11-18T19:30:00+0000",
+      "id": "887833734633858"
+    },
+    {
+      "name": "The Royal Standard",
+      "start_time": "2015-11-11T19:30:00+0000",
+      "id": "1027985080584914"
+    },
+    {
+      "name": "The Snug Bar",
+      "place": {
+        "name": "The Snug",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.1979132,
+          "longitude": 0.1227606,
+          "street": "67 Lensfield Rd",
+          "zip": "CB2 1"
+        },
+        "id": "181600168605719"
+      },
+      "start_time": "2015-11-04T19:30:00+0000",
+      "id": "121192271575177"
+    },
+    {
+      "name": "The Cambridge Blue",
+      "place": {
+        "name": "The Cambridge Blue",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.202394459399,
+          "longitude": 0.13912136604001,
+          "street": "85 - 87 Gwydir Street",
+          "zip": "CB1 2LG"
+        },
+        "id": "181200928596478"
+      },
+      "start_time": "2015-10-28T19:30:00+0000",
+      "id": "1723302844559621"
+    },
+    {
+      "name": "Live and Let live",
+      "place": {
+        "name": "Live & Let Live",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.1994643,
+          "longitude": 0.1351059,
+          "street": "40 Mawson Road",
+          "zip": "CB1 2EA"
+        },
+        "id": "443590848995224"
+      },
+      "start_time": "2015-10-21T19:30:00+0100",
+      "id": "1510114019303161"
+    },
+    {
+      "name": "Queen Edith",
+      "place": {
+        "name": "Queen Edith pub, Wulfstan Way, Cambridge CB1 8QN",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.180341450714,
+          "longitude": 0.15279597428571,
+          "zip": "CB1 8QN"
+        },
+        "id": "955018844532854"
+      },
+      "start_time": "2015-10-14T19:30:00+0100",
+      "id": "108409746184708"
+    },
+    {
+      "name": "The Mill",
+      "place": {
+        "name": "The Mill Pub Cambridge",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.201375227482,
+          "longitude": 0.11616006223917,
+          "street": "14 Mill Lane",
+          "zip": "CB2 1RX"
+        },
+        "id": "602080493164025"
+      },
+      "start_time": "2015-10-07T19:30:00+0100",
+      "id": "777460045734111"
+    },
+    {
+      "description": "Yes a new pub! Well actually a very old one, but one we've never done for pub night. It may sound far away but it is not that far by bicycle. Cross the bridge at the Green dragon and up through Stourbridge common. Don't try the A14 unless you are driving.",
+      "name": "The Ancient Shepherds",
+      "start_time": "2015-09-30T19:30:00+0100",
+      "id": "706778402756700"
+    },
+    {
+      "name": "Haymakers",
+      "place": {
+        "name": "The Haymakers",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2174683,
+          "longitude": 0.139648,
+          "street": "54 High Street",
+          "zip": "CB41NG"
+        },
+        "id": "536082466435621"
+      },
+      "start_time": "2015-09-23T19:30:00+0100",
+      "id": "885417134827914"
+    },
+    {
+      "description": "Beer festival on apparently",
+      "name": "Carpenters Arms",
+      "place": {
+        "name": "The Carpenters Arms",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2158046,
+          "longitude": 0.1142752,
+          "street": "182-186 Victoria Road",
+          "zip": "CB4 3DZ"
+        },
+        "id": "533721400004289"
+      },
+      "start_time": "2015-09-16T19:30:00+0100",
+      "id": "884829898274902"
+    },
+    {
+      "description": "At The Red Lion.",
+      "name": "The Histon Beer Festival",
+      "place": {
+        "name": "The Red Lion Histon",
+        "location": {
+          "city": "Histon",
+          "country": "United Kingdom",
+          "latitude": 52.2526971742,
+          "longitude": 0.104355349042,
+          "street": "27 High Street",
+          "zip": "cb24 9jd"
+        },
+        "id": "191421860984453"
+      },
+      "start_time": "2015-09-09T19:30:00+0100",
+      "id": "413427842194351"
+    },
+    {
+      "description": "Its one year on since we got laid off so for a change we are inviting folk for a picnic on Jesus Green after work, near the tennis grounds. Bring food, drink and a blanket. (perhaps a coat too). It starts at 5.30pm. If you come later, you should find us at the Fort St George.",
+      "name": "Picnic and pub",
+      "place": {
+        "name": "Jesus Green",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.213241666667,
+          "longitude": 0.12308888888889,
+          "street": "Park Parade",
+          "zip": "CB4 3AX"
+        },
+        "id": "113092602034406"
+      },
+      "start_time": "2015-09-02T17:30:00+0100",
+      "id": "437475753111762"
+    },
+    {
+      "description": "Not the best of locations but a wide range of beer and its Caribbean night for food.",
+      "name": "Carlton Arms",
+      "place": {
+        "name": "The Carlton Arms",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.222115953027,
+          "longitude": 0.11918974967192,
+          "street": "Carlton Way",
+          "zip": "Cb4 2by"
+        },
+        "id": "335546663187157"
+      },
+      "start_time": "2015-08-26T19:30:00+0100",
+      "id": "423647851178352"
+    },
+    {
+      "name": "The Brewhouse",
+      "place": {
+        "name": "The Cambridge Brew House",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2074849,
+          "longitude": 0.12209,
+          "street": "1 King Street",
+          "zip": "CB1 1LH"
+        },
+        "id": "129334400561425"
+      },
+      "start_time": "2015-08-19T19:30:00+0100",
+      "id": "758263194306277"
+    },
+    {
+      "description": "For those of us, not on holiday this week",
+      "name": "The Old Spring",
+      "place": {
+        "name": "The Old Spring - Cambridge",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.21434415834,
+          "longitude": 0.12777769670155,
+          "street": "The Old Spring, 1 Ferry Path",
+          "zip": "CB41HB"
+        },
+        "id": "104537516287931"
+      },
+      "start_time": "2015-08-12T19:30:00+0100",
+      "id": "1652944988285178"
+    },
+    {
+      "name": "The Free Press",
+      "place": {
+        "name": "The Free Press",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.204683389682,
+          "longitude": 0.13033376644616,
+          "street": "7 Prospect Row",
+          "zip": "CB1 1DU"
+        },
+        "id": "118534981534150"
+      },
+      "start_time": "2015-08-05T19:30:00+0100",
+      "id": "1661275687441461"
+    },
+    {
+      "name": "Champion of the Thames",
+      "place": {
+        "name": "Champion of the Thames",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.207353623488,
+          "longitude": 0.12446782257486,
+          "street": "68 King Street",
+          "zip": "CB1 1LN"
+        },
+        "id": "146820152020776"
+      },
+      "start_time": "2015-07-29T19:30:00+0100",
+      "id": "867484606633433"
+    },
+    {
+      "name": "The Maypole",
+      "place": {
+        "name": "The Maypole",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.209610818786,
+          "longitude": 0.11923013226858,
+          "street": "20A Portugal Place",
+          "zip": "CB5 8AS"
+        },
+        "id": "353980164636819"
+      },
+      "start_time": "2015-07-22T19:30:00+0100",
+      "id": "1673023946245554"
+    },
+    {
+      "description": "It a pub. Its open. It sells beer. alright?",
+      "name": "The Granta",
+      "place": {
+        "name": "The Granta",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.199643058284,
+          "longitude": 0.11395746657693,
+          "street": "14 Newnham Rd",
+          "zip": "CB3 9EX"
+        },
+        "id": "232892476725800"
+      },
+      "start_time": "2015-07-15T19:30:00+0100",
+      "id": "892500340820584"
+    },
+    {
+      "name": "The Pickerel",
+      "start_time": "2015-07-08T19:30:00+0100",
+      "id": "1673583326197749"
+    },
+    {
+      "name": "The Black Horse",
+      "place": {
+        "name": "The Black Horse Rampton",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.292065911998,
+          "longitude": 0.089102645969185,
+          "street": "6 High Street",
+          "zip": "CB24 8QE"
+        },
+        "id": "107002129405423"
+      },
+      "start_time": "2015-07-01T19:30:00+0100",
+      "id": "1620592924866006"
+    },
+    {
+      "name": "The Geldart",
+      "place": {
+        "name": "The Geldart",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2036326,
+          "longitude": 0.1421226,
+          "street": "1 Ainsworth Street",
+          "zip": "CB1 2PF"
+        },
+        "id": "404673892944019"
+      },
+      "start_time": "2015-06-24T19:30:00+0100",
+      "id": "829825113780346"
+    },
+    {
+      "name": "The Cambridge Blue",
+      "place": {
+        "name": "The Cambridge Blue",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.202394459399,
+          "longitude": 0.13912136604001,
+          "street": "85 - 87 Gwydir Street",
+          "zip": "CB1 2LG"
+        },
+        "id": "181200928596478"
+      },
+      "start_time": "2015-06-17T19:30:00+0100",
+      "id": "1590839997833139"
+    },
+    {
+      "name": "The Carpenters Arms",
+      "place": {
+        "name": "The Carpenters Arms",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2158046,
+          "longitude": 0.1142752,
+          "street": "182-186 Victoria Road",
+          "zip": "CB4 3DZ"
+        },
+        "id": "533721400004289"
+      },
+      "start_time": "2015-06-10T19:30:00+0100",
+      "id": "1441319806189150"
+    },
+    {
+      "name": "The Elm Tree",
+      "place": {
+        "name": "The Elm Tree",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2056597,
+          "longitude": 0.1283008,
+          "street": "16A Orchard Street",
+          "zip": "CB1 1JT"
+        },
+        "id": "192872864101650"
+      },
+      "start_time": "2015-06-03T19:30:00+0100",
+      "id": "1458048307825924"
+    },
+    {
+      "name": "The Haymakers",
+      "place": {
+        "name": "The Haymakers",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2174683,
+          "longitude": 0.139648,
+          "street": "54 High Street",
+          "zip": "CB41NG"
+        },
+        "id": "536082466435621"
+      },
+      "start_time": "2015-05-27T19:30:00+0100",
+      "id": "1581148122137553"
+    },
+    {
+      "description": "Same Bat-time, same Bat-channel.",
+      "name": "The 42nd Cambridge Beer Festival",
+      "place": {
+        "name": "Jesus Green",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.213241666667,
+          "longitude": 0.12308888888889,
+          "street": "Park Parade",
+          "zip": "CB4 3AX"
+        },
+        "id": "113092602034406"
+      },
+      "start_time": "2015-05-20T17:30:00+0100",
+      "id": "396914570496800"
+    },
+    {
+      "name": "The Mill",
+      "place": {
+        "name": "The Mill Pub Cambridge",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.201375227482,
+          "longitude": 0.11616006223917,
+          "street": "14 Mill Lane",
+          "zip": "CB2 1RX"
+        },
+        "id": "602080493164025"
+      },
+      "start_time": "2015-05-13T19:30:00+0100",
+      "id": "1609586025951033"
+    },
+    {
+      "name": "The Hopbine",
+      "place": {
+        "name": "The Hopbine",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.207327,
+          "longitude": 0.1294657,
+          "street": "11-12 Fair Street",
+          "zip": "CB1 1HA"
+        },
+        "id": "244282268949934"
+      },
+      "start_time": "2015-05-06T19:30:00+0100",
+      "id": "637172803049145"
+    },
+    {
+      "description": "This week we're visiting the somewhat-recently opened Queen Edith (aka QE2).",
+      "name": "The Queen Edith",
+      "start_time": "2015-04-29T19:30:00+0100",
+      "id": "887190561327181"
+    },
+    {
+      "name": "The Cambridge Blue",
+      "place": {
+        "name": "The Cambridge Blue",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2023695,
+          "longitude": 0.1391106,
+          "street": "85-87 Gwydir St",
+          "zip": "CB1 2LG"
+        },
+        "id": "114756091915375"
+      },
+      "start_time": "2015-04-22T19:30:00+0100",
+      "id": "1571112499834830"
+    },
+    {
+      "name": "The Anchor",
+      "start_time": "2015-04-15T19:30:00+0100",
+      "id": "367783836746989"
+    },
+    {
+      "name": "The Old Spring",
+      "place": {
+        "name": "The Old Spring - Cambridge",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.21434415834,
+          "longitude": 0.12777769670155,
+          "street": "The Old Spring, 1 Ferry Path",
+          "zip": "CB41HB"
+        },
+        "id": "104537516287931"
+      },
+      "start_time": "2015-04-08T19:30:00+0100",
+      "id": "1604336703114292"
+    },
+    {
+      "name": "Salisbury Arms",
+      "place": {
+        "name": "Salisbury Arms",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.1982646,
+          "longitude": 0.1353465,
+          "street": "76 Tenison Road",
+          "zip": "CB1 2DW"
+        },
+        "id": "148506915190239"
+      },
+      "start_time": "2015-04-01T19:30:00+0100",
+      "id": "872640209463105"
+    },
+    {
+      "name": "St. Radegund",
+      "place": {
+        "name": "St. Radegund",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2078171,
+          "longitude": 0.1268544,
+          "street": "129 King Street",
+          "zip": "CB1 1LD"
+        },
+        "id": "158580687506293"
+      },
+      "start_time": "2015-03-25T19:30:00+0000",
+      "id": "618931044903994"
+    },
+    {
+      "description": "In the building formerly occupied by the Aviary (and before that, the Hogshead).",
+      "name": "The Grain Store",
+      "place": {
+        "name": "The Grain & Hop Store, Cambridge",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.200634,
+          "longitude": 0.126332,
+          "street": "The Grain & Hop Store, 69-76 Regent Street",
+          "zip": "CB2 1AB"
+        },
+        "id": "615916831851684"
+      },
+      "start_time": "2015-03-18T19:30:00+0000",
+      "id": "600788056624326"
+    },
+    {
+      "name": "Champion of the Thames",
+      "place": {
+        "name": "Champion of the Thames",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.207353623488,
+          "longitude": 0.12446782257486,
+          "street": "68 King Street",
+          "zip": "CB1 1LN"
+        },
+        "id": "146820152020776"
+      },
+      "start_time": "2015-03-11T19:30:00+0000",
+      "id": "1555087691435371"
+    },
+    {
+      "name": "Live & Let Live",
+      "place": {
+        "name": "Live & Let Live",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.1994643,
+          "longitude": 0.1351059,
+          "street": "40 Mawson Road",
+          "zip": "CB1 2EA"
+        },
+        "id": "443590848995224"
+      },
+      "start_time": "2015-03-04T19:30:00+0000",
+      "id": "715022765283408"
+    },
+    {
+      "name": "The Waterman",
+      "place": {
+        "name": "The waterman",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.214279774635,
+          "longitude": 0.12562924642985,
+          "street": "32 Chesterton Road",
+          "zip": "CB43"
+        },
+        "id": "433919809964541"
+      },
+      "start_time": "2015-02-25T19:30:00+0000",
+      "id": "875731115818448"
+    },
+    {
+      "description": "The pub may change at the last moment to The Architect, which is opposite.",
+      "name": "The Castle",
+      "place": {
+        "name": "The Castle Inn Cambridge",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2119217,
+          "longitude": 0.1136796,
+          "street": "38 Castle Street",
+          "zip": "CB3 0AJ"
+        },
+        "id": "204137616271327"
+      },
+      "start_time": "2015-02-18T19:30:00+0000",
+      "id": "356669737854153"
+    },
+    {
+      "description": "This week we're at The Mitre
+
+Picture sourced from:
+https://www.flickr.com/photos/grahams__flickr/441821060/in/pool-cambridgepubs/",
+      "name": "The Mitre",
+      "place": {
+        "name": "The mitre Cambridge",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.208782551633,
+          "longitude": 0.11796092865858
+        },
+        "id": "245909925503166"
+      },
+      "start_time": "2015-02-11T19:30:00+0000",
+      "id": "1402270170077897"
+    },
+    {
+      "end_time": "2015-02-04T23:30:00+0000",
+      "name": "The Cambridge Brewhouse",
+      "place": {
+        "name": "The Cambridge Brew House",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2074849,
+          "longitude": 0.12209,
+          "street": "1 King Street",
+          "zip": "CB1 1LH"
+        },
+        "id": "129334400561425"
+      },
+      "start_time": "2015-02-04T19:30:00+0000",
+      "id": "1433183793639183"
+    },
+    {
+      "description": "Apologies for the late send-out.
+
+This week we're visiting The Carpenter's Arms, where Terry Mackown has taken up residence.
+
+The three long tables have been reserved for us, so do come along!
+
+Photo from: https://www.flickr.com/groups/cambridgepubs/pool/31585202@N00/",
+      "name": "The Carpenters Arms",
+      "place": {
+        "name": "The Carpenters Arms",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2158046,
+          "longitude": 0.1142752,
+          "street": "182-186 Victoria Road",
+          "zip": "CB4 3DZ"
+        },
+        "id": "533721400004289"
+      },
+      "start_time": "2015-01-28T19:30:00+0000",
+      "id": "1520682338219334"
+    },
+    {
+      "end_time": "2015-01-14T23:30:00+0000",
+      "name": "The Geldart",
+      "place": {
+        "name": "The Geldart",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2036326,
+          "longitude": 0.1421226,
+          "street": "1 Ainsworth Street",
+          "zip": "CB1 2PF"
+        },
+        "id": "404673892944019"
+      },
+      "start_time": "2015-01-14T19:30:00+0000",
+      "id": "1565650843672096"
+    },
+    {
+      "description": "For the first pub night of 2015, we will be visiting the Tram Depot.
+
+Given it's the new year, I'll even forgive (and support, no less!) those of you going dry.",
+      "name": "The Tram Depot",
+      "place": {
+        "name": "The Tram Depot",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2046013,
+          "longitude": 0.1327959,
+          "street": "5 Dover Street",
+          "zip": "CB1 1DY"
+        },
+        "id": "174529922698850"
+      },
+      "start_time": "2015-01-07T19:30:00+0000",
+      "id": "1397365707226936"
+    },
+    {
+      "description": "The Architect",
+      "name": "Ampubnight xmas special",
+      "place": {
+        "name": "The Architect",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2116477,
+          "longitude": 0.1135033,
+          "street": "43 Castle Street",
+          "zip": "CB3 0AH"
+        },
+        "id": "563550603772408"
+      },
+      "start_time": "2014-12-17T19:30:00+0000",
+      "id": "919467988086999"
+    },
+    {
+      "name": "The Pickerel",
+      "place": {
+        "name": "The Pickerel",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.209911711975,
+          "longitude": 0.11641461552417,
+          "street": "30 Magdalene Street",
+          "zip": "CB3 0AF"
+        },
+        "id": "454039351280577"
+      },
+      "start_time": "2014-12-03T21:00:00+0000",
+      "id": "324534774404757"
+    },
+    {
+      "name": "The Elm Tree",
+      "place": {
+        "name": "The Elm Tree",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.205181870883,
+          "longitude": 0.12958461389758,
+          "street": "16A Orchard Street",
+          "zip": "CB1 1JT"
+        },
+        "id": "161466237202224"
+      },
+      "start_time": "2014-11-26T19:30:00+0000",
+      "id": "1564597973776907"
+    },
+    {
+      "name": "The Mill",
+      "place": {
+        "name": "The Mill Pub Cambridge",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.201375227482,
+          "longitude": 0.11616006223917,
+          "street": "14 Mill Lane",
+          "zip": "CB2 1RX"
+        },
+        "id": "602080493164025"
+      },
+      "start_time": "2014-11-19T19:30:00+0000",
+      "id": "896228177076897"
+    },
+    {
+      "description": "This week we're at The Mitre, which reportedly has an Autumn Beer Festival taking place:
+
+http://www.cambridge-news.co.uk/8203-Mitre-Cambridge-launches-Autumn-Beer/story-23174435-detail/story.html
+
+Picture sourced from:
+https://www.flickr.com/photos/grahams__flickr/441821060/in/pool-cambridgepubs/",
+      "name": "The Mitre",
+      "place": {
+        "name": "The Mitre",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2088829,
+          "longitude": 0.1182069,
+          "street": "17 Bridge Street",
+          "zip": "CB2 1UF"
+        },
+        "id": "160333527316521"
+      },
+      "start_time": "2014-11-12T19:30:00+0000",
+      "id": "303493176507099"
+    },
+    {
+      "description": "Apologies for the late send-out.
+
+This week it's the Panton Arms!",
+      "name": "Panton Arms",
+      "place": {
+        "name": "Panton Arms",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.196309893686,
+          "longitude": 0.12504149152714,
+          "zip": "CB2 1"
+        },
+        "id": "114803645325364"
+      },
+      "start_time": "2014-10-29T19:30:00+0000",
+      "id": "1485080428421848"
+    },
+    {
+      "description": "As a special event, please consider joining us at the Cambridge Octoberfest.
+
+Admission is £3 for the general public, but is free for card-carrying members of CAMRA, CURAS and the USC.
+
+Food is available from a number of vendors within the building.
+
+If you've not attended previously, be advised the building is quite small, and there is traditionally a strong attendance, so arriving early and packing layers is advised.",
+      "name": "Octoberfest",
+      "place": {
+        "name": "University Social Club",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.201688985698,
+          "longitude": 0.11612729168491,
+          "street": "Mill Lane",
+          "zip": "CB2 1"
+        },
+        "id": "158141124220190"
+      },
+      "start_time": "2014-10-17T19:00:00+0100",
+      "id": "292530484273273"
+    },
+    {
+      "description": "This week we'll be at the St Radegund.",
+      "name": "St Radegund",
+      "place": {
+        "name": "St. Radegund",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2078171,
+          "longitude": 0.1268544,
+          "street": "129 King Street",
+          "zip": "CB1 1LD"
+        },
+        "id": "158580687506293"
+      },
+      "start_time": "2014-10-15T19:30:00+0100",
+      "id": "389208094569998"
+    },
+    {
+      "description": "Pub night this week? The Carpenters Arms, on Victoria Road.
+
+Contacts are:
+Chris Hopkins @ 07970 027 092
+Terry Mackown @ 07855 394 543
+Gaute Strokkenes @ 07726 757 832
+
+Pub FB Page: https://www.facebook.com/pages/The-Carpenters-Arms/533721400004289",
+      "name": "The Carpenters Arms",
+      "place": {
+        "name": "The Carpenters Arms",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2158046,
+          "longitude": 0.1142752,
+          "street": "182-186 Victoria Road",
+          "zip": "CB4 3DZ"
+        },
+        "id": "533721400004289"
+      },
+      "start_time": "2014-10-08T19:30:00+0100",
+      "id": "319641818219074"
+    },
+    {
+      "name": "The Haymakers",
+      "place": {
+        "name": "The Haymakers",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2174683,
+          "longitude": 0.139648,
+          "street": "54 High Street",
+          "zip": "CB41NG"
+        },
+        "id": "536082466435621"
+      },
+      "start_time": "2014-10-01T19:30:00+0100",
+      "id": "642565122526283"
+    },
+    {
+      "description": "It sells Tuborg! (among other lesser beers and real ales)",
+      "name": "The Tivoli",
+      "start_time": "2014-09-24T19:30:00+0100",
+      "id": "1474917652791628"
+    },
+    {
+      "description": "Pub Night this week is at The Pickerel.
+
+Contacts:
+
+Terry 07855 394 543",
+      "name": "The Pickerel",
+      "place": {
+        "name": "The Pickerel",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.209911711975,
+          "longitude": 0.11641461552417,
+          "street": "30 Magdalene Street",
+          "zip": "CB3 0AF"
+        },
+        "id": "454039351280577"
+      },
+      "start_time": "2014-09-17T19:30:00+0100",
+      "id": "742346119135292"
+    },
+    {
+      "description": "OK its not a pub, its my house but I'll make it as pub-like as possible for a Wednesday, complete with beer garden. I am buying two polypins (Justinian and Pegasus). That's more than 70 pints so I do hope we get more than 15 people or we are getting really drunk! I am also firing up the BBQ from about 5pm so bring food and come before 630pm for the best flames. There is also a shop across the road if you need more of anything. Spouses and kids welcome. In the unlikely event that both me and my trusted Co-op runs out of beer then we will head down to the Carpenters arms. It might be White Swan time by then anyway...",
+      "end_time": "2014-09-10T23:30:00+0100",
+      "name": "Pub night at the only pub in north-west Cambridge",
+      "place": {
+        "name": "234 Histon Road, Cambridge, CB4 3HJ"
+      },
+      "start_time": "2014-09-10T16:00:00+0100",
+      "id": "742146152512936"
+    },
+    {
+      "description": "Contacts:
+Terry Mackown - 07855 394 543
+Chris Hopkins - 07970 027 092",
+      "name": "Histon Beer Festival",
+      "place": {
+        "name": "The Red Lion Histon",
+        "location": {
+          "city": "Histon",
+          "country": "United Kingdom",
+          "latitude": 52.2526971742,
+          "longitude": 0.104355349042,
+          "street": "27 High Street",
+          "zip": "cb24 9jd"
+        },
+        "id": "191421860984453"
+      },
+      "start_time": "2014-09-03T19:30:00+0100",
+      "id": "883936214969588"
+    },
+    {
+      "description": "This is a little bit special. To say we're excited is the understatement to beat all understatements. We've gone � tap-takeover-tastic... 
+
+We have Copenhagen's legendary craft brewer #Mikkeller � coming to hang out with us in Cambridge on Sat 9 Sept, so we decided to make the whole long weekend a massive Mikkeller tap-takeover at both #Riverside and #46chestertonroad from 7-10 Sept. 
+
+*Entry is free to both sites.* We'll have 14 taps pouring at #riverside from the 7th, plus the four growler lines at #46chestertonroad, alongside a selection of interesting bottles and cans. We've ordered five pallets of beer from these guys, so come thirsty (to Thirsty). Can't get tickets to Beavertown Extravaganza in London? Come to Cambridge instead... 
+
+But that's not all. We'll have Matthias #Meierer � and his wines alongside - our new producer from Germany's #Mosel Valley. Matthias produces beautiful Riesling wines and has worked with Mikkeller for several years, supplying their Beer Geek Riesling. It was thanks to Matthias that we got the introduction to Mikkeller. He's a rock star, too. The highlight will be a special food and wine pairing evening on Fri 8 Sept at #46chestertonroad, with a flight of Matthias's Rieslings matched to various Asian-influenced goodies from #guerrillakitchen, presented by Matthias himself. 
+
+Tickets for the latter are on Eventbrite at https://www.eventbrite.co.uk/e/meierer-tasting-with-the-wine-maker-tickets-36922932485. There's no cost to enter the biergarten or Chesterton Road, of course. 
+
+So who's in?!?",
+      "end_time": "2017-09-10T22:00:00+0100",
+      "name": "Mikkeller + Meierer Tap-takeover Weekend",
+      "place": {
+        "name": "Cambridge Museum of Technology",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2128,
+          "longitude": 0.14316,
+          "zip": "CB5 8LD"
+        },
+        "id": "163977706945809"
+      },
+      "start_time": "2017-09-07T17:00:00+0100",
+      "id": "121243361829932"
+    },
+    {
+      "description": "Easter.... Beer.... Hmmm....Festival time!
+
+Come and join in all thing beerlike at the St.Radegund this April. (Wed 12th -  Sat 15th).  Featuring over 6 real and craft ales from across the country that will be all new to the Rad. Below are a few to give you an idea of what kind of things will be avaiable: 
+
+BACCHUS FRAMBOISE (on keg):
+Get fruity in the sunshine with this take on a traditional pint. Bacchus is a delcious belgium lambic beer which is fermented using raspberries. It is one of many modern types of fruit beer that have been inspired by the more traditional kriek beer.
+
+TINY REBEL: (@tinyrebelbrewco)
+It all began in 2008  where Brad and Gazz homebrewed on weekends in thier garage in Cardiff, Wales.Officially launched in February 2012, thier award winning core range grew and grew to what it is today. Winner of the 2013 Business Young Achiever award for Wales and the 2014 Welsh Food & Drink award. 
+
+Cwtch -  (rhymes with butch - can mean either cuddle or cubbyhole) 4.6% Deep amber aromatic bitter. Winner of the Champion Beer of Britain 2015 award. 
+
+Fugg Life - British Pale Ale (BPA) An easy drinking 4.2% pale ale, with a rich bitterness before a clean, dry finish. Released June 2016.
+
+THREE BLIND MICE: (@3BlindMiceBrew)
+A little closer to home, Three Blind Mice based in Ely can be found around Cambridge and in London. Inventive and innovative with thier beers, they could give any brewery a run for its money. With thier range going from too hoppy to handle to citrusy sweet, there is something for everyone. 
+
+Table Liquor - 2.8% Extremely Llight, hoppy table beer. Easy Drinking. 
+
+Lonely Snake - A well known pick from thier range, 3.6% Light hoppy ale with a varitation in what hops are used, meaning different editions of the same beer. Edition TBD.  
+
+SIGNATURE BREW:  (@SignatureBrew)
+\"Brewing with music since 2011\" being thier tagline, this brewery was born from the brewers love of music but distain over the subpar lager served at gigs. Based in Leyton, East London. 
+
+Red Wedge - Named after the UK political and music movement of the 1980’s, Red Wedge is a 4.7% red ale, using four different hops. A proper taste experience. 
+
+More cask and Keg beer will be available across the festival. We will still have our usual Stowford Press Cider and Lagers on tap. We don't do food unfortunately, but there will be a plethora of snacks (sweet and savoury) to try that are a bit unusual.  
+
+Children welcome until 9pm. FREE ENTRY
+WEDS 12TH - FRI 14TH OPEN FROM 3PM  -    SAT NORMAL OPENING HOURS - CLOSED SUNDAY",
+      "end_time": "2017-04-15T23:59:00+0100",
+      "name": "Easter BEER Festival 2017",
+      "place": {
+        "name": "St. Radegund",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2078171,
+          "longitude": 0.1268544,
+          "street": "129 King Street",
+          "zip": "CB1 1LD"
+        },
+        "id": "158580687506293"
+      },
+      "start_time": "2017-04-12T15:00:00+0100",
+      "id": "276195326145928"
+    },
+    {
+      "description": "IT'S BACK, GREENER (BUT HOPEFULLY NOT RAINIER) THAN EVER BEFORE... 
+
+Thirstyfest is back for its first outing in 2017, marking St Patrick's Day with a bang on Fri 17th March (plus Sat 18th for good measure). We'll be back chez Mackay, taking over the yard/car park behind their store between East Rd and New St, running from 6-11pm each night. And once again, it's *free entry*.
+
+We'll be turning our awesome apres-ski bar green for the occasion, stocking up on some dubious potions from that fair isle across the sea - and encouraging all sorts of leprechaun-like behaviour. Expect a few specials from the food trucks, U2/Sinead O'Connor/Pogues on the PA system, plus the greenest fireworks display you will ever have seen. 
+
+So block out the diaries, spread the word and get practising those jigs...",
+      "end_time": "2017-03-17T23:00:00+0000",
+      "name": "Thirstyfest - St Patrick's Day 2017 - Fri 17th",
+      "place": {
+        "name": "Mackays of Cambridge",
+        "id": "147952865224734"
+      },
+      "start_time": "2017-03-17T18:00:00+0000",
+      "id": "1420262204672614"
+    },
+    {
+      "description": "Beers at Thirsty with some tapas can be a good way to spend a Tuesday evening, isn’t it?
+
+We are looking forward to welcoming you to Thirsty for a wonderful night of BEER and TAPAS!
+
+On Tuesday, 14 March at 7 PM we’ll take you on a gastronomic tour of the very special place where BEER meets authentic TAPAS.
+
+Thirsty has an amazing selection of beers -no everything is about wine :) – so we will explore some of their selected beers, like IPA, double IPA, Pale Ale, Saison, Fruit infused, Stout, Oatmeal Stout, Larger, Bitter or Barley Wine. I am already working in the menu which will match with 5 of the beers included in the tasting.
+
+But remember, there’s BEER! For a mere £30 per person you’ll be treated to 10 BEERS and 5  TAPAS.
+
+For bookings (required!) call Thirsty at 01223 464436.
+
+Email me at querico@quericotapas.com if you wnat a vegetarian option or have any allergy or dietary requirement.
+
+Look forward to seeing you!",
+      "end_time": "2017-03-14T21:30:00+0000",
+      "name": "Beer and tapas tasting",
+      "place": {
+        "name": "Thirsty Cambridge",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.2143822,
+          "longitude": 0.1265449,
+          "street": "46 Chesterton Road",
+          "zip": "CB4 1EN"
+        },
+        "id": "631464710290258"
+      },
+      "start_time": "2017-03-14T19:00:00+0000",
+      "id": "290194368065434"
+    },
+    {
+      "description": "Wednesday 8th March is my 30th Birthday, please come and commiserate the end of my 20s with me at the Grain and Hop Store.",
+      "name": "Birthday Drinks",
+      "place": {
+        "name": "The Grain & Hop Store, Cambridge",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.200634,
+          "longitude": 0.126332,
+          "street": "The Grain & Hop Store, 69-76 Regent Street",
+          "zip": "CB2 1AB"
+        },
+        "id": "615916831851684"
+      },
+      "start_time": "2017-03-08T19:00:00+0000",
+      "id": "217152752093208"
+    },
+    {
+      "description": "We'll have over 100 beer and ciders.",
+      "end_time": "2017-01-21T22:30:00+0000",
+      "name": "21st Cambridge Winter Ale Festival",
+      "place": {
+        "name": "University Social Club",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.201688985698,
+          "longitude": 0.11612729168491,
+          "street": "Mill Lane",
+          "zip": "CB2 1"
+        },
+        "id": "158141124220190"
+      },
+      "start_time": "2017-01-19T17:00:00+0000",
+      "id": "104493883382905"
+    },
+    {
+      "description": "Lots of lovely rums to taste, whether you like dark, white, flavoured or spiced styles, we have range of all, over 125 in total! Actually 132 rums on the menu :)",
+      "end_time": "2016-04-23T23:00:00+0100",
+      "name": "Rum Festival",
+      "place": {
+        "name": "Live & Let Live",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.1994643,
+          "longitude": 0.1351059,
+          "street": "40 Mawson Road",
+          "zip": "CB1 2EA"
+        },
+        "id": "443590848995224"
+      },
+      "start_time": "2016-04-22T17:00:00+0100",
+      "id": "516702961788086"
+    },
+    {
+      "description": "Around 100 beers & ciders, including draught foreign beers.
+
+Open 17:00-22:30 on Thursday, 12:00-15:00 and 17:00-22:30 on Friday, and 12:00-22:30 on Saturday.
+
+Admission is £3, but only £1 to USC members and free to CAMRA or CURAS members. Friday lunchtime's session is free admission for all.",
+      "end_time": "2015-01-24T22:30:00+0000",
+      "name": "19th Cambridge Winter Ale Festival",
+      "place": {
+        "name": "University Social Club",
+        "location": {
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "latitude": 52.201688985698,
+          "longitude": 0.11612729168491,
+          "street": "Mill Lane",
+          "zip": "CB2 1"
+        },
+        "id": "158141124220190"
+      },
+      "start_time": "2015-01-22T17:00:00+0000",
+      "id": "764375620289921"
+    }
+  ],
+  "paging": {
+    "cursors": {
+      "before": "QVFIUlB4bXBXdXF6ZAnA4bVZAaQzJXQ3l2amU5MFBjczQxUXdMMXh2aDdhalg4TG1CUGZAzUmJmbXBQU2lDNFNfUEFJUi12QXFjMmJjNXJqcWpHTFkyRGdCd1JB",
+      "after": "QVFIUjR4Sk1RbHdlMUhyUWQ3U2ZA3M3FxVUNtLUd2bmx1Vl9tbm4wZA3FScDJKaThHUVBRX2xSZAnMzVklzRUpITS15XzNwMFpLMVoyWDczYTZAVLXhmYkw2eVRB"
+    }
+  }
+}5
